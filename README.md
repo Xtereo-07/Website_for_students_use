@@ -1,2 +1,2 @@
-# Registration_form_-HS-
+# WEBSITE_FOR_STUDENT_USE
 This is a website for HS registration.
